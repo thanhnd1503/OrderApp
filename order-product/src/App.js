@@ -1,6 +1,6 @@
 
 import './App.css';
-import OrderProduct from "./components/OrderProduct";
+import OrderCreating from "./components/order/OrderCreating";
 import {BrowserRouter, Route, Routes} from "react-router-dom";
 
 
@@ -8,7 +8,7 @@ function App() {
   return (
       <BrowserRouter>
         <Routes>
-          <Route path="/" element={<OrderProduct />} />
+          <Route path="/" element={<OrderCreating />} />
         </Routes>
       </BrowserRouter>
   );

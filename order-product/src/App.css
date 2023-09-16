@@ -67,7 +67,7 @@ body{
 form{
   flex: 4;
 }
-.Yorder{
+.your-order{
   flex: 2;
 }
 .title{
@@ -112,7 +112,7 @@ select{
   padding: 5px 10px;
   margin-bottom: 10px;
 }
-.Yorder{
+.your-order{
   margin-top: 15px;
   height: 600px;
   padding: 20px;
@@ -145,7 +145,7 @@ p{
   margin: 0;
   padding-left: 25px;
 }
-.Yorder>div{
+.your-order>div{
   padding: 15px 0;
 }
 

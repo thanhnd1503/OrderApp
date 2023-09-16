@@ -1,0 +1,1 @@
+export const CREATE_ORDER_API = "http://localhost:8080/api/orders";
