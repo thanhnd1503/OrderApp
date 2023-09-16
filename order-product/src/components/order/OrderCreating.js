@@ -1,6 +1,6 @@
     import React, { useState, useEffect } from 'react';
     import axios from "axios";
-    import OrderValidator from '../../Validator/OrderValidator';
+    import OrderValidator from '../../validator/OrderValidator';
     import {CREATE_ORDER_API} from "../../api/orderAPI";
     import {ORDER_INFO_DATA} from "../../data/OrderInfoData";
     import {AUTH_TOKEN} from "../../constant/AppContant";
